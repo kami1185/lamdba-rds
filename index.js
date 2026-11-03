@@ -1,3 +1,5 @@
+// Victoriaaaa 
+
 const mysql = require('mysql2/promise');
 
 // Configuración de la base de datos (se recomienda usar Variables de Entorno)
